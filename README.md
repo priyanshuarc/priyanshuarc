@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Pandey</h1>
 <h3 align="center">Ethical Hacker | Multidisciplinary Developer | Innovating Games, Apps, Software, and UI/UX</h3>
 
+<img src="https://img.shields.io/badge/Profile%20Views-66.2k-blue?style=flat" alt="Custom Profile Views Badge">
+
+
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c4bWtyYncwcTQ4cHVkbXdkM3VlZnZidnE1NjE4ZG1kZWNzNXh6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuarc&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuarc" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/cyberrokk" target="blank"><img src="https://img.shields.io/twitter/follow/cyberrokk?logo=twitter&style=for-the-badge" alt="cyberrokk" /></a> </p>
 
