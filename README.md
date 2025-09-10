@@ -1,58 +1,58 @@
-[![MasterHead](https://media1.giphy.com/media/14kdiJUblbWBXy/100.webp?cid=790b76119dokql7syjnrd2kz5mganb1ozwdnml1xxg9wz1wt&ep=v1_gifs_search&rid=100.webp&ct=g)](https://github.com/priyanshuarc/)
-<h1 align="center">Hi 👋, I'm Priyanshu Pandey</h1>
-<h3 align="center">IT Student | Data Analyst | Developer (Web, Apps, Games) | AI & UI/UX Enthusiast</h3>
+[![Banner](https://img.shields.io/badge/Data%20Analytics%20|%20IT%20Student%20|%20Developer-1F4E79?style=for-the-badge&logo=google&logoColor=white)](https://github.com/priyanshuarc)
 
-<img src="https://img.shields.io/badge/Profile%20Views-66.2k-blue?style=flat" alt="Custom Profile Views Badge">
+# Priyanshu Pandey  
+**B.Sc. IT Student | Data Analyst | Developer (Web, Apps, Games) | AI & UI/UX Enthusiast**  
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c4bWtyYncwcTQ4cHVkbXdkM3VlZnZidnE1NjE4ZG1kZWNzNXh6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
-
----
-
-### 🔭 Current Projects  
-- [WEB-SOLVE (JantaVaani)](https://github.com/priyanshuarc/WEB-SOLVE) – Civic issue reporting platform with real-time tracking  
-- [Horror Escape Game](https://github.com/priyanshuarc/HorrorGame) – Mobile horror puzzle game built in Unity  
-- [Luna Cycle - Period Tracker](https://github.com/priyanshuarc/Period-Tracker) – Health tracking app with cycle prediction  
-
-### 🌱 Currently Learning  
-- Data Analytics (Power BI, Tableau, MS Excel)  
-- Generative AI & ChatGPT tools  
-- Advanced UI/UX and Mobile Optimization  
-
-### 👯 Looking to Collaborate On  
-- AI-powered applications  
-- Game Development (Unity / Unreal Engine)  
-- Open-source IT & Web Projects  
-
-### 📫 Reach Me At  
-- **Email:** ceo.priyanshupandey@gmail.com | priyanshu.edu.py@gmail.com  
-- **Telegram:** [Discuss with me](https://t.me/priyanshuarc)  
-- **LinkedIn:** [Priyanshu Pandey](https://linkedin.com/in/priyanshuarc)  
+🎯 Passionate about transforming raw data into insights and building impactful digital products.  
+💡 Skilled in **Data Analytics, Development, and Creative Tech** with hands-on project experience.  
+🌍 Open to collaborations on AI, Data Analytics, and Web/Game Development.  
 
 ---
 
-### 💡 Skills
-- **Programming:** Python, C++, C#, Java, JavaScript, HTML5, CSS  
-- **Data & Analytics:** Power BI, Tableau, Excel, Data Cleaning, Hypothesis Testing, Statistics  
-- **Development:** Web Development, Android Apps, Unity Game Engine  
-- **Design:** Figma, Canva, Photoshop, UI/UX, Blender (3D)  
-- **Other:** APIs, Networking, Online Teaching, Algorithms  
+## 🔭 Featured Projects  
+- [**WEB-SOLVE (JantaVaani)**](https://github.com/priyanshuarc/WEB-SOLVE) – Civic issue reporting platform with live tracking.  
+- [**Luna Cycle - Period Tracker**](https://github.com/priyanshuarc/Period-Tracker) – Health app with predictive cycle tracking.  
+- [**Horror Escape Game**](https://github.com/priyanshuarc/HorrorGame) – Mobile horror puzzle game built in Unity.  
+- [**SmartBin Dashboard**](https://github.com/priyanshuarc) – IoT + dashboard system for waste management.  
 
 ---
 
-### 🎓 Education  
-**B.Sc IT (Information Technology)**  
-*Thakur College of Science & Commerce, Mumbai* (2024–2027)
+## 🌱 Currently Exploring  
+- Data Analytics (Power BI, Tableau, Advanced Excel)  
+- Generative AI & Automation Tools  
+- UI/UX Design & Mobile-First Development  
 
 ---
 
-### 🏆 Certifications & Achievements  
+## 🛠 Skills  
+**Programming:** Python, C++, C#, Java, JavaScript, HTML, CSS  
+**Analytics & Data:** Power BI, Tableau, Excel, SQL, Statistics  
+**Development:** React.js, Node.js, Android Studio, Unity Engine  
+**Design & Tools:** Figma, Photoshop, Blender, Canva, Firebase, Git/GitHub  
+
+---
+
+## 🎓 Education  
+**B.Sc. IT (2024–2027)**  
+*Thakur College of Science & Commerce, Mumbai*  
+
+---
+
+## 🏆 Certifications & Achievements  
 - Certified in **Data Analytics Workshop** (Power BI, Tableau)  
-- Presented IoT Project at **CIIA 2023**  
-- Published projects & case studies on **GitHub & CyberRokk Blog**  
+- Presented IoT Project at **CIIA 2023** Exhibition  
+- Published projects & technical case studies on GitHub & blogs  
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 📫 Let’s Connect  
+- 📧 Email: **ceo.priyanshupandey@gmail.com** | **priyanshu.edu.py@gmail.com**  
+- 💬 Telegram: [@priyanshuarc](https://t.me/priyanshuarc)  
+- 💼 LinkedIn: [Priyanshu Pandey](https://linkedin.com/in/priyanshuarc)  
+
+---
+
+### ⚡ Tools & Technologies  
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -73,8 +73,4 @@
 
 ---
 
-<h3 align="left">Support:</h3>
-<p>
-<a href="https://www.buymeacoffee.com/priyanshuarc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyanshuarc" /></a>
-<a href="https://ko-fi.com/priyanshuarc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="priyanshuarc" /></a>
-</p>
+⭐️ *Always learning, building, and sharing!*  
