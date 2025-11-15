@@ -41,10 +41,10 @@ class DataScientist:
         
     def current_status(self):
         return {
-            "🎓 CGPA": "9.55/10.0",
-            "📚 Semester": "3rd (In Progress)",
+            "🎓 CGPA": "8.73/10.0",
+            "📚 Semester": "4th (In Progress)",
             "🏆 Rank": "Top 5% of Class",
-            "🎯 Target": "Google Data Analytics Apprenticeship 2026"
+            "🎯 Target": "To become data scientist"
         }
     
     def expertise(self):
@@ -72,7 +72,7 @@ class DataScientist:
 
 **Current CGPA**
 
-### 9.55/10.0
+### 8.73/10.0
 Distinction Grade
 
 </td>
@@ -82,7 +82,7 @@ Distinction Grade
 **Class Rank**
 
 ### Top 5%
-3/120 Students
+6/120 Students
 
 </td>
 <td align="center" width="25%">
@@ -90,7 +90,7 @@ Distinction Grade
 
 **Overall %**
 
-### 94.95%
+### 80.55%
 Outstanding Performance
 
 </td>
@@ -109,10 +109,10 @@ Consistent Excellence
 ### 📈 Semester-wise Performance
 
 ```
-Semester 1 (Jul 2024 - Dec 2024)    SGPA: 9.60  ████████████████████ 
-Semester 2 (Jan 2025 - May 2025)    SGPA: 9.55  ███████████████████▓
-Semester 3 (Jul 2025 - Dec 2025)    SGPA: 9.4*  ██████████████████░░  🔄 In Progress
-Semester 4 (Jan 2026 - May 2026)    SGPA: 9.5*  ███████████████████░  ⏳ Upcoming
+Semester 1 (Jul 2024 - Dec 2024)    SGPA: 7.18  ████████████████████ 
+Semester 2 (Jan 2025 - May 2025)    SGPA: 8.73  ███████████████████▓
+Semester 3 (Jul 2025 - Dec 2025)    SGPA: TBD   ██████████████████░░  ⏳ Upcoming
+Semester 4 (Jan 2026 - May 2026)    SGPA: TBD   ███████████████████░  ⏳ Upcoming
 
 Overall CGPA: 9.55/10.0  |  Credits: 44/176  |  Progress: 25% Complete
 ```
@@ -124,11 +124,10 @@ Overall CGPA: 9.55/10.0  |  Credits: 44/176  |  Progress: 25% Complete
 <td width="50%" valign="top">
 
 **✨ Strengths**
-- 💻 Programming Excellence: 98%
-- 🧪 Lab Performance: 99%
-- 📊 Data Structures: 98%
+- 💻 Programming Excellence: 88%
+- 🧪 Lab Performance: 80%
+- 📊 Data Structures: 80%
 - 🌐 Web Technologies: 97%
-- 🔢 Mathematics: 94%
 
 </td>
 <td width="50%" valign="top">
@@ -137,7 +136,7 @@ Overall CGPA: 9.55/10.0  |  Credits: 44/176  |  Progress: 25% Complete
 - 🥇 Highest Marks in Programming
 - 🏅 Best Project Award - Data Structures
 - 📚 Dean's List - All Semesters
-- 🌟 Consistent Top 5% Performance
+- 🌟 Consistent Top 10% Performance
 - 📈 Web Development Excellence
 
 </td>
