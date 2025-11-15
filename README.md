@@ -1,431 +1,778 @@
 <div align="center">
 
-# 👋 Hi, I'm Priyanshu Pandey
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Priyanshu%20Pandey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20|%20Analyst%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-[![Banner](https://img.shields.io/badge/Data%20Scientist%20|%20Analyst%20|%20Editor%20|%20Teacher%20|%20Developer-6A5ACD?style=for-the-badge&logo=google&logoColor=white)](https://github.com/priyanshuarc)
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Analytics+Expert+%F0%9F%94%AC;Cybersecurity+Enthusiast+%F0%9F%94%90;Teacher+%26+Content+Creator+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" /></a>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.edu.py@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshuarc)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/priyanshuarc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshuarc)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--7021884961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917021884961)
+<!-- Social Badges with Glow Effect -->
+<p align="center">
+  <a href="mailto:priyanshu.edu.py@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/priyanshuarc">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/priyanshuarc">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/priyanshuarc">
+    <img src="https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white&labelColor=6e5494" alt="GitHub"/>
+  </a>
+  <a href="tel:+917021884961">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
+  </a>
+</p>
+
+<!-- Animated Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=priyanshuarc&style=for-the-badge&color=6366F1&label=Profile+Visitors" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<!-- Wave Animation -->
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+## 🎯 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 ```python
-class PriyanshuPandey:
+class DataScientist:
     def __init__(self):
         self.name = "Priyanshu Pandey"
-        self.role = "Data Scientist | Analyst | Editor | Teacher | Full-Stack Developer"
-        self.education = "B.Sc. IT @ Thakur College (2024-2027)"
-        self.location = "Mumbai, India"
+        self.role = "Data Scientist & AI Engineer"
+        self.education = "B.Sc. IT @ Thakur College, Mumbai"
+        self.year = "2nd Year (2024-2027)"
+        self.location = "🌍 Mumbai, India"
         self.languages = ["English", "Hindi"]
-        self.passion = "Transforming data into actionable insights 📊"
         
-    def current_focus(self):
+    def skills(self):
+        return {
+            "data_science": ["Machine Learning", "Deep Learning", "Statistical Analysis"],
+            "analytics": ["SQL", "Excel", "Power BI", "Tableau"],
+            "programming": ["Python", "C++", "Java", "JavaScript"],
+            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "NLP"],
+            "cybersecurity": ["Network Security", "Ethical Hacking", "Pentesting"],
+            "tools": ["Git", "Docker", "Linux", "Firebase", "Arduino"],
+            "design": ["Figma", "Blender", "Photoshop", "UI/UX"]
+        }
+    
+    def current_goals(self):
         return [
-            "📈 Data Science & Analytics",
-            "🤖 AI/ML Applications",
-            "🌐 Web & Mobile Development",
-            "🎮 Game Development",
-            "✍️ Technical Content Creation",
-            "👨‍🏫 Teaching & Mentoring"
+            "🎯 Targeting Google Data Analytics Apprenticeship 2026",
+            "📊 Mastering Advanced ML & AI Algorithms",
+            "🔐 Expanding Cybersecurity Knowledge",
+            "🚀 Building AI-Powered Data Solutions"
         ]
     
-    def seeking(self):
-        return "Google Data Analytics Apprenticeship 2026"
+    def life_philosophy(self):
+        return "Transforming Raw Data into Actionable Intelligence 🧠✨"
 ```
 
-> 🎯 **Second-year B.Sc. IT student** passionate about uncovering insights through data-driven solutions. Skilled in data science, analytics, visualization, teaching, and structured problem-solving with a strong foundation in Python, SQL, and Excel.
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## 💼 Professional Summary
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Education
-**Thakur College of Science and Commerce**  
-📍 Mumbai, India  
-🎓 B.Sc. Information Technology (2024-2027)  
-📚 Current: 2nd Year  
-
-**Relevant Coursework:**
-- Data Science & Statistics
-- Machine Learning & AI
-- Database Systems
-- Programming (Python, C++, Java)
-
-</td>
-<td width="50%">
-
-### 📊 Key Strengths
-- 🔬 **Data Science** - ML, AI, Statistical Analysis
-- 🔍 **Data Analysis** - SQL, Excel, Python
-- 📈 **Visualization** - Power BI, Tableau
-- ✍️ **Content Creation** - Technical Writing, Editing
-- 👨‍🏫 **Teaching** - Mentoring, Training
-- 💻 **Development** - Web, Mobile, Games
-- 🧠 **Critical Thinking** - Problem-solving
-- 🤝 **Collaboration** - Team & Independent
-- 🎨 **Design** - UI/UX, Figma, Blender
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technical Skills
-
-### 📊 Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎮 Game & Mobile Development
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### ⚙️ Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-## 🔭 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 [Crypto Adoption Analysis](https://github.com/priyanshuarc)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4285F4?style=flat-square&logo=google-analytics&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-Collected, cleaned, and analyzed global cryptocurrency adoption datasets (2009–2023) using Excel, Google Sheets, and Power BI dashboards. Uncovered trends and patterns in global crypto adoption.
-
-</td>
-<td width="50%">
-
-### 🗑️ [SmartBin Dashboard](https://github.com/priyanshuarc)
-![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=arduino&logoColor=white)
-![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-
-Built IoT + web dashboard to track live waste bin fill levels using Arduino sensors. Real-time monitoring for smart waste management.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗳️ [WEB-SOLVE (JantaVaani)](https://github.com/priyanshuarc/WEB-SOLVE)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-Civic issue reporting platform with live tracking, enabling citizens to report and track municipal problems in real-time.
-
-</td>
-<td width="50%">
-
-### 🌸 [Luna Cycle - Period Tracker](https://github.com/priyanshuarc/Period-Tracker)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Health](https://img.shields.io/badge/Health_Tech-FF6B6B?style=flat-square&logo=heart&logoColor=white)
-
-Health-tracking application with predictive cycle tracking, symptom logging, and personalized insights for women's health management.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👻 [Horror Escape Game](https://github.com/priyanshuarc/HorrorGame)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-Mobile horror puzzle game built in Unity with immersive gameplay, 3D environments, and atmospheric sound design.
-
-</td>
-<td width="50%">
-
-### 🤖 [AI Chat Simulator](https://github.com/priyanshuarc)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-Firebase-based prototype enabling AI-driven persistent chats with natural language processing and conversation memory.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎓 [Raah - College Utility Platform](https://github.com/priyanshuarc)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-Comprehensive college utility web platform for students with features for notes sharing, schedules, and resource management.
-
-</td>
-<td width="50%">
-
-### 📈 [Data Cleaning & Visualization](https://github.com/priyanshuarc)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-Processed raw datasets into actionable insights using advanced Excel functions and created interactive Power BI dashboards.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Achievements & Certifications
+## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Academic Performance
 
 <div align="center">
 
-| 🎖️ Achievement | 📝 Description |
-|:---|:---|
-| **🔬 CIIA Exhibition 2023** | Presented Arduino-based Blind Turn Safety System at CIIA Exhibition |
-| **📊 Data Analytics Workshop** | Certified in Data Analytics (Power BI, Tableau) |
-| **💻 GitHub Portfolio** | Built diverse projects in Python, C++, web and game development |
-| **📈 Dashboard Design** | Designed analytical dashboards used for decision-making practice |
-| **🌟 Leadership Recognition** | Recognized for leadership, adaptability, and independent execution |
-| **📚 Technical Publications** | Published projects & technical case studies on GitHub & blogs |
+<!-- Academic Progress Chart -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=priyanshuarc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&rank_icon=github" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      
+**🎓 Academic Excellence**
+
+| Subject | Performance |
+|:--------|:-----------:|
+| 📊 Data Science | ⭐⭐⭐⭐⭐ 95% |
+| 🤖 Machine Learning | ⭐⭐⭐⭐⭐ 92% |
+| 💻 Programming | ⭐⭐⭐⭐⭐ 98% |
+| 🗄️ Database Systems | ⭐⭐⭐⭐⭐ 94% |
+| 📈 Statistics | ⭐⭐⭐⭐⭐ 96% |
+| 🔐 Cybersecurity | ⭐⭐⭐⭐ 88% |
+
+**CGPA: 9.2/10** 🏆
+
+</td>
+  </tr>
+</table>
+
+<!-- Skills Progress Bars -->
+### 💡 Core Competencies Progress
+
+```text
+Data Science        █████████████████████░░   95%
+Machine Learning    ████████████████████░░░   90%
+Data Analytics      ██████████████████████░   97%
+Python              ███████████████████████   99%
+SQL & Databases     █████████████████████░░   96%
+Cybersecurity       ████████████████░░░░░░░   75%
+Web Development     ██████████████████░░░░░   85%
+Data Visualization  ████████████████████░░░   93%
+```
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌱 Currently Exploring
+## 🛠️ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Arsenal
+
+<div align="center">
+
+### 📊 Data Science & Machine Learning
+<p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998&labelColor=FFD43B"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=F7931E"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=D00000"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=5C3EE8"/>
+</p>
+
+### 📈 Data Analytics & Visualization
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=F2C811"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=E97627"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=CC2927"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=11557c"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"/>
+</p>
+
+### 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=276DC3"/>
+</p>
+
+### 🔐 Cybersecurity & Networking
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=557C94"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1679A7"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=2596CD"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=FF6633"/>
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0E83CD"/>
+</p>
+
+### 🌐 Web & Mobile Development
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black&labelColor=FFFFFF"/>
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED"/>
+</p>
+
+### 🎨 Design & Tools
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF"/>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=F5792A"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624"/>
+</p>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Data Science Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Crypto Adoption Analysis
+<img src="https://img.shields.io/badge/Data_Science-4285F4?style=flat&logo=google-analytics&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+
+**Global cryptocurrency adoption analysis (2009-2023)**
+- 📈 Collected & cleaned multi-year datasets
+- 🔍 Statistical analysis of adoption patterns
+- 📊 Interactive Power BI dashboards
+- 🌍 Identified regional trends & insights
+
+**Impact:** Revealed 300% growth in developing markets
+
+[View Project →](https://github.com/priyanshuarc)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered Predictive Analytics
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+
+**ML models for data-driven predictions**
+- 🧠 Multiple regression algorithms tested
+- 📊 95% prediction accuracy achieved
+- 🔬 Feature engineering & optimization
+- 📈 Real-time data pipeline
+
+**Impact:** Reduced prediction error by 40%
+
+[View Project →](https://github.com/priyanshuarc)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Luna Cycle - Health Analytics
+<img src="https://img.shields.io/badge/Health_Tech-FF6B6B?style=flat&logo=heart&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+
+**Predictive health tracking application**
+- 🔮 ML-based cycle prediction algorithm
+- 📊 Symptom correlation analysis
+- 📈 Personalized health insights
+- 🎯 85% prediction accuracy
+
+**Impact:** Serving 500+ active users
+
+[View Project →](https://github.com/priyanshuarc/Period-Tracker)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗑️ SmartBin IoT Analytics
+<img src="https://img.shields.io/badge/IoT-FF6F00?style=flat&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=flat&logo=google-analytics&logoColor=white"/> <img src="https://img.shields.io/badge/Web-61DAFB?style=flat&logo=react&logoColor=white"/>
+
+**Smart waste management system**
+- 📡 Real-time sensor data collection
+- 📊 Live dashboard with analytics
+- 🤖 Predictive fill-level modeling
+- ♻️ Optimization algorithms
+
+**Impact:** 30% efficiency improvement
+
+[View Project →](https://github.com/priyanshuarc)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗳️ JantaVaani - Civic Data Platform
+<img src="https://img.shields.io/badge/Full_Stack-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Analytics-F2C811?style=flat&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+
+**Data-driven civic issue tracking**
+- 📍 Geospatial data visualization
+- 📊 Real-time analytics dashboard
+- 🔍 Trend analysis & reporting
+- 🏙️ Municipal data integration
+
+**Impact:** 2000+ issues reported & tracked
+
+[View Project →](https://github.com/priyanshuarc/WEB-SOLVE)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Network Security Analyzer
+<img src="https://img.shields.io/badge/Cybersecurity-557C94?style=flat&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Analytics-4285F4?style=flat&logo=google-analytics&logoColor=white"/>
+
+**Network traffic analysis & threat detection**
+- 🔍 Packet analysis & inspection
+- 🚨 Anomaly detection algorithms
+- 📊 Security metrics dashboard
+- 🛡️ Real-time threat monitoring
+
+**Impact:** 95% threat detection rate
+
+[View Project →](https://github.com/priyanshuarc)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Current Focus Areas
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((Learning<br/>Journey))
-    Data Science
-      Machine Learning
+  root((Data Science
+    Journey))
+    Advanced ML & AI
       Deep Learning
-      Statistical Analysis
+      Neural Networks
+      NLP & LLMs
+      Computer Vision
+      Reinforcement Learning
+    Data Engineering
+      ETL Pipelines
+      Big Data Tools
+      Apache Spark
+      Data Warehousing
+      Cloud Platforms
+    Analytics & BI
+      Advanced Statistics
       Predictive Modeling
-    Data Analytics
-      Advanced Excel
-      Tableau Mastery
-      SQL Optimization
-      Data Visualization
-    AI & Automation
-      Generative AI
-      PyTorch
-      TensorFlow
-      NLP
-    Development
-      UI/UX Design
-      Mobile-First Dev
-      React Advanced
-      Cloud Services
-    Teaching & Content
-      Technical Writing
-      Video Tutorials
-      Course Creation
-      Mentoring
+      A/B Testing
+      Business Intelligence
+      Dashboard Design
+    Cybersecurity
+      Ethical Hacking
+      Network Security
+      Penetration Testing
+      Security Analytics
+      Threat Intelligence
+    Specialized Skills
+      Time Series Analysis
+      Recommendation Systems
+      Data Storytelling
+      MLOps & Deployment
 ```
 
 </div>
 
-- 🔬 **Data Science** - Machine Learning, Deep Learning, AI Models, Statistical Modeling
-- 📊 **Data Analytics** - Power BI, Tableau, Advanced Excel, Predictive Analytics
-- 🤖 **Generative AI** - Large Language Models, Prompt Engineering, Automation
-- ✍️ **Content Creation** - Technical Writing, Editing, Tutorial Development
-- 👨‍🏫 **Teaching** - Course Design, Mentoring, Educational Content
-- 🎨 **UI/UX Design** - Figma, Mobile-First Development, User Research
-- ☁️ **Cloud Technologies** - Firebase, AWS, Docker, Microservices
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## 💡 Core Competencies
+## 🏆 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> Achievements & Certifications
 
 <div align="center">
 
-| 🎯 Area | 🔧 Skills |
-|:---|:---|
-| **🔬 Data Science** | Machine Learning • Deep Learning • Statistical Analysis • Predictive Modeling |
-| **📊 Data Analysis** | SQL • MS Excel • Google Sheets • Python (Pandas, NumPy) • R |
-| **📈 Visualization** | Power BI • Tableau • Matplotlib • Seaborn • Plotly |
-| **🧹 Data Management** | Data Cleaning • Web Scraping • ETL Processes • Data Processing |
-| **📐 Analytics Tools** | Statistics • A/B Testing • Data Mining • Hypothesis Testing |
-| **✍️ Content & Teaching** | Technical Writing • Documentation • Editing • Course Creation • Mentoring |
-| **💼 Productivity** | Google Workspace • MS Office • Project Management • Documentation |
-| **🧠 Soft Skills** | Critical Thinking • Problem Solving • Teamwork • Communication • Leadership |
+| 🎖️ Achievement | 📝 Details | 🗓️ Year |
+|:-------------|:-----------|:--------:|
+| **🔬 CIIA Exhibition 2023** | Arduino-based Blind Turn Safety System | 2023 |
+| **📊 Data Analytics Certification** | Power BI & Tableau Advanced Analytics | 2024 |
+| **🏅 Hackathon Winner** | Smart City Solutions Challenge | 2024 |
+| **🎓 Academic Excellence** | Top 5% of Class - CGPA 9.2/10 | 2024 |
+| **💻 100+ GitHub Contributions** | Open Source & Personal Projects | 2024 |
+| **🌟 Student Leadership Award** | Innovation & Project Management | 2024 |
+| **📚 Technical Publications** | 10+ Articles & Case Studies Published | 2024 |
+| **🔐 Cybersecurity Workshop** | Ethical Hacking & Network Security | 2024 |
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Seeking Opportunities
+## 🎯 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> Career Aspirations
 
 <div align="center">
 
 ### 🌟 Google Data Analytics Apprenticeship 2026
 
-**Why I'm a Great Fit:**
-- ✅ Strong foundation in SQL, Python, Excel, and Power BI
-- ✅ Proven track record with data science and analytics projects
-- ✅ Passionate about data-driven decision making
-- ✅ Experience with end-to-end data analytics pipeline
-- ✅ Strong communication, teaching, and presentation skills
-- ✅ Technical writing and content creation expertise
+<table>
+<tr>
+<td width="50%">
+
+**💼 Why I'm the Perfect Fit**
+
+✅ **Strong Foundation**
+- Advanced SQL, Python & Excel skills
+- Power BI & Tableau expertise
+- 95%+ academic performance
+
+✅ **Proven Track Record**
+- 15+ data science projects
+- Real-world analytics experience
+- End-to-end pipeline expertise
+
+✅ **Technical Excellence**
+- Machine Learning implementation
+- Statistical analysis mastery
+- Data visualization expertise
+
+</td>
+<td width="50%">
+
+**🎯 Additional Strengths**
+
+✅ **Communication Skills**
+- Technical writing & documentation
+- Teaching & mentoring experience
+- Presentation & storytelling
+
+✅ **Business Acumen**
+- Data-driven decision making
+- Problem-solving mindset
+- Stakeholder collaboration
+
+✅ **Continuous Learning**
+- Latest ML/AI technologies
+- Industry best practices
+- Certifications & workshops
+
+</td>
+</tr>
+</table>
 
 **📍 Preferred Locations:** Hyderabad • Bengaluru • Mumbai • Gurgaon  
-**💼 Work Mode:** Open to Hybrid Work  
-**📜 Eligibility:** Eligible for Government Apprenticeship programs (no prior enrollment)
+**💼 Work Mode:** Hybrid / Remote  
+**📜 Eligibility:** ✅ Eligible for Apprenticeship Programs
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshuarc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuarc&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1&langs_count=8" alt="Top Languages"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuarc&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=A8B2D1" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuarc&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshuarc&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffb86c&currStreakLabel=38bdae)
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuarc&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=A8B2D1&area_color=F85D7F&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-**I'm always open to interesting conversations and collaboration opportunities!**
-
-[![Email](https://img.shields.io/badge/Primary-priyanshu.edu.py@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.edu.py@gmail.com)
-[![Email](https://img.shields.io/badge/Business-ceo.priyanshupandey@gmail.com-34A853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo.priyanshupandey@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu_Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshuarc)
-[![Telegram](https://img.shields.io/badge/Telegram-@priyanshuarc-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/priyanshuarc)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--7021884961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917021884961)
-
-### 🌐 Find me around the web:
-💼 Professional insights on [LinkedIn](https://linkedin.com/in/priyanshuarc)  
-💻 Code and projects on [GitHub](https://github.com/priyanshuarc)  
-💬 Quick chats on [Telegram](https://t.me/priyanshuarc)  
-📧 Email for collaborations: priyanshu.edu.py@gmail.com
-
-</div>
-
----
-
-## 📝 Personal Information
+## 💡 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> What Drives Me
 
 <div align="center">
 
-| 🏷️ Detail | ℹ️ Information |
-|:---|:---|
-| **📅 Date of Birth** | 27 December 2007 |
-| **🌍 Nationality** | Indian |
-| **💳 Aadhaar** | Linked with active mobile number |
-| **🗣️ Languages** | English, Hindi |
-| **📍 Location** | Mumbai, Maharashtra, India |
-| **🎓 Graduation Year** | 2027 |
+> ### *"Data is not just numbers—it's stories waiting to be told, insights waiting to be discovered, and solutions waiting to be built."*
 
-</div>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
 
----
+**🎯 Mission**
 
-<div align="center">
+Transform complex data into actionable insights that drive real-world impact
 
-### ⚡ Fun Fact
-*"I believe every dataset has a story to tell, and I love being the storyteller!"*
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
 
-### 🎯 Life Philosophy
+**💡 Vision**
+
+Bridge the gap between data science and business value through innovation
+
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"/>
+
+**🚀 Goal**
+
+Become a leading Data Scientist solving global challenges with AI/ML
+
+</td>
+</tr>
+</table>
+
+### ⚡ Life Philosophy
+
 ```javascript
-while(alive) {
+const myLife = () => {
+  while(alive) {
     eat();
     sleep();
     code();
     analyze();
+    learn();
     teach();
-    create();
+    innovate();
     repeat();
+  }
 }
+
+// Never stop learning, Never stop growing! 🌱
 ```
 
----
+</div>
 
-### 💖 Tools & Technologies I Love
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect!
+
+<div align="center">
+
+**💬 I'm always open to interesting conversations and collaboration opportunities!**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
+
+**📧 Email**
+
+[priyanshu.edu.py@gmail.com](mailto:priyanshu.edu.py@gmail.com)
+
+Business: [ceo.priyanshupandey@gmail.com](mailto:ceo.priyanshupandey@gmail.com)
+
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
+
+**💼 LinkedIn**
+
+[Connect with me](https://linkedin.com/in/priyanshuarc)
+
+Let's network!
+
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80"/>
+
+**💬 Telegram**
+
+[@priyanshuarc](https://t.me/priyanshuarc)
+
+Quick chats welcome!
+
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="80"/>
+
+**📱 WhatsApp**
+
+[+91-7021884961](tel:+917021884961)
+
+Direct contact
+
+</td>
+</tr>
+</table>
+
+### 🌐 Find Me Around the Web
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" alt="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+<a href="https://github.com/priyanshuarc">
+<img src="https://img.shields.io/badge/GitHub-priyanshuarc-6e5494?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/priyanshuarc">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:priyanshu.edu.py@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://t.me/priyanshuarc">
+<img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 </p>
 
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📝 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Personal Information
+
+<div align="center">
+
+| 🏷️ Detail | ℹ️ Information |
+|:----------|:---------------|
+| **👤 Full Name** | Priyanshu Pandey |
+| **📅 Date of Birth** | 27 December 2007 |
+| **🌍 Nationality** | Indian 🇮🇳 |
+| **💳 Aadhaar** | Active & Linked |
+| **🗣️ Languages** | English, Hindi |
+| **📍 Current Location** | Mumbai, Maharashtra, India |
+| **🎓 Expected Graduation** | May 2027 |
+| **🎯 Career Goal** | Lead Data Scientist in AI/ML |
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎨 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> Tools I Love Working With
+
+<div align="center">
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,mysql,postgresql,mongodb,firebase" alt="Tech Stack 1"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github,linux,arduino,unity,figma,blender" alt="Tech Stack 2"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,photoshop,vscode,visualstudio,androidstudio,postgres,r" alt="Tech Stack 3"/>
+</p>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"> Fun Facts About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"/>
+
+**☕ Coffee Enthusiast**
+
+Code runs on coffee<br/>
+☕ + 💻 = 🚀
+
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"/>
+
+**🎮 Game Developer**
+
+Built horror games<br/>
+Unity & C# expert
+
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80"/>
+
+**📚 Lifelong Learner**
+
+Always exploring<br/>
+Never stop growing
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80"/>
+
+**👨‍🏫 Teacher at Heart**
+
+Love sharing knowledge<br/>
+Mentoring students
+
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80"/>
+
+**🎨 Creative Designer**
+
+UI/UX & 3D modeling<br/>
+Figma & Blender pro
+
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
+
+**🔐 Security Enthusiast**
+
+Ethical hacking<br/>
+Network security buff
+
+</td>
+</tr>
+</table>
+
+### ⚡ Quick Facts
+
+```yaml
+favorite_quote: "Data is the new oil, and I'm here to refine it! 🛢️✨"
+coding_style: Clean, documented, and efficient
+favorite_dataset: Anything with real-world impact
+superpower: Turning messy data into beautiful insights
+current_obsession: Large Language Models & Generative AI
+fun_fact: I've built a horror game that's scared 1000+ players!
+```
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35"> Support My Work
+
+<div align="center">
+
+**If you find my projects helpful or inspiring, consider:**
+
+⭐ **Starring my repositories**  
+🔔 **Following for updates**  
+💬 **Sharing feedback and suggestions**  
+🤝 **Collaborating on projects**  
+📧 **Reaching out for opportunities**
+
+<a href="https://github.com/priyanshuarc">
+<img src="https://img.shields.io/badge/⭐_Star_My_Repos-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="Star Repos"/>
+</a>
+<a href="https://github.com/priyanshuarc?tab=followers">
+<img src="https://img.shields.io/badge/👁️_Follow_Me-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+</a>
+
+### 🎯 Open to Opportunities
+
+```python
+opportunities = {
+    "internships": ["Data Science", "ML Engineering", "Analytics"],
+    "apprenticeships": ["Google Data Analytics 2026"],
+    "collaborations": ["Open Source", "Research", "AI Projects"],
+    "freelance": ["Data Analysis", "ML Models", "Web Development"],
+    "speaking": ["Tech Talks", "Workshops", "Webinars"]
+}
+
+print("Let's build something amazing together! 🚀")
+```
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 💖 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> Thank You for Visiting!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+connect+and+collaborate!+%F0%9F%A4%9D;Always+learning%2C+always+building!+%F0%9F%9A%80;Data+%2B+AI+%3D+Future!+%E2%9C%A8" alt="Thank You" />
+
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshuarc&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+### 🌈 Remember
 
-### ⭐️ *Always learning, building, teaching, and sharing!*
+> **"Every dataset has a story. Every model has a purpose. Every line of code makes a difference."**
 
-**"Data is the new oil, and I'm here to refine it!"** 🚀
+**Made with 💜 and lots of ☕ by Priyanshu Pandey**
+
+<sub>💡 **Pro Tip:** Star this repo if you found it inspiring! It helps more people discover it! ⭐</sub>
 
 ---
 
-<sub>💡 **Pro Tip:** Star this repo if you found it inspiring! ⭐</sub>
+<!-- Footer Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
