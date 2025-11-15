@@ -351,21 +351,30 @@ Academic Standing: Top 5%
 ### 📊 Semester-wise Performance Visualization
 
 ## Progress Timeline (2024-2027)
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Year 1 │ ████████████████████ Completed (CGPA: 9.55)
-       │ Sem 1: ██████████ (9.60) │ Sem 2: ██████████ (9.55)
-       │
-Year 2 │ ██████████░░░░░░░░░░ In Progress (Target: 9.45+)
-       │ Sem 3: █████░░░░░ (9.4*) │ Sem 4: ░░░░░░░░░░ (9.5*)
-       │
-Year 3 │ ░░░░░░░░░░░░░░░░░░░░ Upcoming (Target: 9.5+)
-       │ Sem 5: ░░░░░░░░░░ (TBD)  │ Sem 6: ░░░░░░░░░░ (TBD)
-       
-Overall Progress: ████████░░ 40% Complete
-Target: First Class with Distinction (CGPA: 9.0+) ✓
-Status: On Track for Excellence 🎯
-```
+
+### Academic Performance Overview
+
+| Year | Semester | Status | CGPA | Progress |
+|------|----------|--------|------|----------|
+| **Year 1** | Semester 1 | ✅ Completed | 9.60 | ████████████████████ 100% |
+| | Semester 2 | ✅ Completed | 9.55 | ████████████████████ 100% |
+| | **Year Average** | | **9.55** | |
+| **Year 2** | Semester 3 | 🔄 In Progress | 9.4* | ██████████░░░░░░░░░░ 50% |
+| | Semester 4 | ⏳ Upcoming | 9.5* (Target) | ░░░░░░░░░░░░░░░░░░░░ 0% |
+| | **Year Target** | | **9.45+** | |
+| **Year 3** | Semester 5 | ⏳ Upcoming | TBD | ░░░░░░░░░░░░░░░░░░░░ 0% |
+| | Semester 6 | ⏳ Upcoming | TBD | ░░░░░░░░░░░░░░░░░░░░ 0% |
+| | **Year Target** | | **9.5+** | |
+
+### Overall Statistics
+- **Overall Progress:** 40% Complete (2/6 semesters)
+- **Current CGPA:** 9.55
+- **Target:** First Class with Distinction (9.0+) ✓
+- **Status:** 🎯 On Track for Excellence
+
+---
+
+*Note: Values marked with * are projected targets*
 
 ---
 
