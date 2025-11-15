@@ -22,7 +22,9 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=priyanshuarc&style=for-the-badge&color=6366F1&label=Profile+Visitors" alt="Profile Views"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-167k-6366F1?style=for-the-badge" alt="Profile Views"/>
+</div>
 
 </div>
 
