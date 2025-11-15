@@ -214,7 +214,7 @@ Overall CGPA: 9.55/10.0  |  Credits: 44/176  |  Progress: 25% Complete
 
 **Impact:** 300% growth in emerging markets
 
-[View Project →](https://github.com/priyanshuarc)
+
 
 </td>
 <td width="50%" valign="top">
@@ -230,7 +230,7 @@ Overall CGPA: 9.55/10.0  |  Credits: 44/176  |  Progress: 25% Complete
 
 **Impact:** 40% error reduction
 
-[View Project →](https://github.com/priyanshuarc)
+
 
 </td>
 </tr>
@@ -248,7 +248,7 @@ Overall CGPA: 9.55/10.0  |  Credits: 44/176  |  Progress: 25% Complete
 
 **Impact:** 500+ active users
 
-[View Project →](https://github.com/priyanshuarc/Period-Tracker)
+
 
 </td>
 <td width="50%" valign="top">
@@ -264,7 +264,6 @@ Overall CGPA: 9.55/10.0  |  Credits: 44/176  |  Progress: 25% Complete
 
 **Impact:** 30% efficiency boost
 
-[View Project →](https://github.com/priyanshuarc)
 
 </td>
 </tr>
