@@ -439,23 +439,182 @@ mindmap
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Activity
+## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Data Science Journey & Impact
 
 <div align="center">
 
+### 🎯 My Data Science Learning Path
+
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuarc&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1&langs_count=8" alt="Top Languages"/>
+<td width="50%" valign="top">
+
+#### 📚 Courses & Certifications Completed
+
+```python
+data_science_path = {
+    "foundational": [
+        "✅ Python for Data Science",
+        "✅ Statistics & Probability",
+        "✅ SQL & Database Management",
+        "✅ Data Visualization Basics"
+    ],
+    "intermediate": [
+        "✅ Machine Learning Algorithms",
+        "✅ Data Cleaning & Preprocessing",
+        "✅ Power BI & Tableau",
+        "✅ Exploratory Data Analysis"
+    ],
+    "advanced": [
+        "🔄 Deep Learning with TensorFlow",
+        "🔄 NLP & Text Analytics",
+        "🔄 Time Series Forecasting",
+        "🔄 MLOps & Model Deployment"
+    ]
+}
+```
+
+#### 📈 Skills Proficiency Matrix
+
+| Skill Category | Proficiency |
+|:---------------|:-----------:|
+| 🐍 Python Programming | ⬛⬛⬛⬛⬛ 95% |
+| 📊 Data Analysis | ⬛⬛⬛⬛⬛ 93% |
+| 🤖 Machine Learning | ⬛⬛⬛⬛⬜ 88% |
+| 📈 Data Visualization | ⬛⬛⬛⬛⬛ 91% |
+| 🗄️ SQL & Databases | ⬛⬛⬛⬛⬛ 92% |
+| 📊 Statistical Analysis | ⬛⬛⬛⬛⬜ 87% |
+
 </td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuarc&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=A8B2D1" alt="GitHub Streak"/>
+<td width="50%" valign="top">
+
+#### 🚀 Real-World Impact
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+
+**Projects Completed:** 15+  
+**Datasets Analyzed:** 50+  
+**Models Deployed:** 8+  
+**Lines of Code:** 25,000+
+
+---
+
+#### 🏆 Notable Achievements
+
+```yaml
+2024:
+  - name: "Crypto Adoption Analysis"
+    impact: "Analyzed 5+ years of global data"
+    recognition: "Featured in college showcase"
+    
+  - name: "ML Prediction Model"
+    impact: "95% accuracy achieved"
+    recognition: "Best Project Award - Sem 2"
+    
+  - name: "Health Analytics App"
+    impact: "500+ active users"
+    recognition: "Social Impact Award"
+    
+  - name: "Smart IoT Dashboard"
+    impact: "30% efficiency improvement"
+    recognition: "CIIA Exhibition 2023"
+```
+
+#### 📚 Currently Learning
+
+- 🧠 Advanced Deep Learning (Neural Networks)
+- 🔮 Generative AI & Large Language Models
+- 📊 Advanced Statistical Modeling
+- ☁️ Cloud-based ML (AWS, Azure)
+- 🔐 AI Security & Privacy
+
 </td>
 </tr>
 </table>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuarc&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=A8B2D1&area_color=F85D7F&area=true&hide_border=true" alt="Contribution Graph"/>
+### 💼 Industry-Ready Skills Portfolio
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="80"/>
+
+**Data Collection**
+- Web Scraping
+- API Integration
+- Database Queries
+- Survey Design
+- IoT Sensors
+
+</td>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
+
+**Data Processing**
+- Cleaning & Wrangling
+- Feature Engineering
+- Handling Missing Data
+- Outlier Detection
+- Data Transformation
+
+</td>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80"/>
+
+**Analysis & Modeling**
+- Statistical Analysis
+- ML Algorithms
+- Deep Learning
+- Predictive Analytics
+- A/B Testing
+
+</td>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="80"/>
+
+**Visualization & Reporting**
+- Interactive Dashboards
+- Data Storytelling
+- Business Insights
+- Presentation Design
+- Technical Documentation
+
+</td>
+</tr>
+</table>
+
+### 🎓 Data Science Specializations
+
+```mermaid
+mindmap
+  root((Data Science
+    Expertise))
+    Machine Learning
+      Supervised Learning
+      Unsupervised Learning
+      Model Evaluation
+      Hyperparameter Tuning
+    Statistical Analysis
+      Descriptive Statistics
+      Inferential Statistics
+      Hypothesis Testing
+      Regression Analysis
+    Data Engineering
+      ETL Pipelines
+      Data Warehousing
+      Big Data Tools
+      Database Design
+    Business Intelligence
+      KPI Development
+      Dashboard Design
+      Reporting Automation
+      Stakeholder Communication
+    Domain Applications
+      Healthcare Analytics
+      Financial Analysis
+      IoT Data Science
+      Social Impact Projects
+```
 
 </div>
 
