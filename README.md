@@ -332,9 +332,9 @@ Overall CGPA: 9.55/10.0  |  Credits: 44/176  |  Progress: 25% Complete
 
 | 🎖️ Achievement | 📝 Description | 🗓️ Year |
 |:-------------|:--------------|:--------:|
-| **🎓 Academic Excellence** | Top 5% of Class - CGPA 9.55/10 | 2024-25 |
+| **🎓 Academic Excellence** | Top 5% of Class - CGPA 8.73/10 | 2024-25 |
 | **🥇 Best Project Award** | Data Structures & Algorithms | 2025 |
-| **🏅 Hackathon Winner** | Smart City Solutions Challenge | 2024 |
+| **🏅 Exhibition** | Smart City Solutions Challenge | 2024 |
 | **📊 Data Analytics Certified** | Power BI & Tableau Advanced | 2024 |
 | **🔬 CIIA Exhibition** | Arduino Safety System | 2023 |
 | **💻 100+ Contributions** | Open Source Projects | 2024 |
@@ -377,7 +377,7 @@ Overall CGPA: 9.55/10.0  |  Credits: 44/176  |  Progress: 25% Complete
 </tr>
 </table>
 
-**📍 Locations:** Hyderabad • Bengaluru • Mumbai • Gurgaon  
+**📍 Locations:** Mumbai  
 **💼 Mode:** Hybrid / Remote  
 **🎓 Status:** ✅ Eligible for Apprenticeship Programs
 
