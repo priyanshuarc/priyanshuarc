@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Priyanshu%20Pandey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Priyanshu%20Pandey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20|%20CYBER+SECURITY%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Analytics+Expert+%F0%9F%94%AC" alt="Typing SVG" /></a>
