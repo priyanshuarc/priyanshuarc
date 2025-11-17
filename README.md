@@ -8,6 +8,26 @@
 
 <!-- Social Badges -->
 
+<p align="center">
+  <a href="mailto:priyanshu.edu.py@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/priyanshuarc">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/priyanshuarc">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/priyanshuarc">
+    <img src="https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-167k-6366F1?style=for-the-badge" alt="Profile Views"/>
+</div>
+
+</div>
 ---
 
 ## 🎯 About Me
