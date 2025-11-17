@@ -7,26 +7,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Analytics+Expert+%F0%9F%94%AC" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
-<p align="center">
-  <a href="mailto:priyanshu.edu.py@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/priyanshuarc">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/priyanshuarc">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://github.com/priyanshuarc">
-    <img src="https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-167k-6366F1?style=for-the-badge" alt="Profile Views"/>
-</div>
-
-</div>
 
 ---
 
