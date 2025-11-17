@@ -24,7 +24,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-167k-6366F1?style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-16.5k-6366F1?style=for-the-badge" alt="Profile Views"/>
 </div>
 
 </div>
